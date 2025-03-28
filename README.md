@@ -1,4 +1,4 @@
-# ntiptest
+# NETWORK TABLES FLUTTER TEMPLATE FOR FRC
 
 A new Flutter project.
 
