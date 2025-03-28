@@ -1,6 +1,6 @@
 # NETWORK TABLES FLUTTER TEMPLATE FOR FRC
 
-![](Flutter-FRC-NT-template/DASH.png)
+![](/DASH.png)
 
 A new Flutter project.
 
